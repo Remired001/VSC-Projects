@@ -18,7 +18,7 @@ print(myFinalAnswerTuple[1])
 print(myFinalAnswerTuple[2])
 
 myFavoriteFruitDictionary = {
-    "Akua" : "apple",
+    "Akua" : "Kiwi",
     "Saanvi" : "banana",
     "Paulo" : "pineapple"
 }
