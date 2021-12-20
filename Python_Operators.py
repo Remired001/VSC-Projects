@@ -1,5 +1,5 @@
-x= 5
-y= 9
+x= 7
+y= 8
 
 py_operators= {
     "add": "+",

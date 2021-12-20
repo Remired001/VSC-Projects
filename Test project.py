@@ -1,4 +1,4 @@
-myFruitList = ["apple", "banana", "cherry"]
+myFruitList = ["apple", "banana", "grape"]
 print(myFruitList)
 print(type(myFruitList))
 
