@@ -10,7 +10,7 @@ def getDoubleAlphabet(alphabet):
 
 # Get a message to encrypt
 def getMessage():
-    stringToEncrypt = input("Please enter a message to encrypt: ")
+    stringToEncrypt = input("Please enter a message to encrypt below: ")
     return stringToEncrypt
 
 # Get a cipher key
